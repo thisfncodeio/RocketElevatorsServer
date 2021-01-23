@@ -1,0 +1,27 @@
+{
+  "name": "rocketelevators_production",
+  "version": "1.0.0",
+  "description": "Rocket Elevators",
+  "main": "scripts.js",
+  "scripts": {
+    "start": "nodemon ./assets/js/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisfncodeio/RocketElevatorsDigitalPresence.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thisfncodeio/RocketElevatorsDigitalPresence/issues"
+  },
+  "homepage": "https://github.com/thisfncodeio/RocketElevatorsDigitalPresence#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
